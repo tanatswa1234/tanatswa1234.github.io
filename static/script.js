@@ -2,7 +2,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
 
     // Typing animation
-    const typingTexts = ["-Web Developer", "-Problem Solver", "-Funny"];
+    const typingTexts = ["-Developer", "-Problem Solver", "-Vibrant","Energetic"];
     const typingElement = document.querySelector('.typing-animation');
     let textIndex = 0;
     let charIndex = 0;
